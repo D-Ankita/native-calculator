@@ -1,2 +1,4 @@
 # native-calculator
-A calculator App to begin with React Native
+A calculator App to begin with React Native 
+Initialized
+
