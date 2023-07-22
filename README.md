@@ -1,4 +1,3 @@
 # native-calculator
-A calculator App to begin with React Native 
-Initialized
+A simple cross platform (iOS and Android) React Native calculator app.
 
